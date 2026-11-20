@@ -1,0 +1,34 @@
+{
+ "region": "경북 포항시 북구 흥해읍",
+ "nameEn": "Handong Global University",
+ "added": "2026-10-27T21:00",
+ "rank": 90,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "POHANG",
+   "campus": "포항대학교",
+   "km": 2.8
+  },
+  {
+   "code": "SUNLIN",
+   "campus": "선린대학교",
+   "km": 5.2
+  },
+  {
+   "code": "POSTECH",
+   "campus": "포항공과대학교",
+   "km": 11.3
+  },
+  {
+   "code": "UIDUK",
+   "campus": "위덕대학교",
+   "km": 13.9
+  },
+  {
+   "code": "DGU-WISE",
+   "campus": "동국대학교 WISE캠퍼스",
+   "km": 32.1
+  }
+ ]
+}
